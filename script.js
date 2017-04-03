@@ -7,7 +7,8 @@ $(function() {
 
   // Place your code here
   $("button").click(function(){
-    $("#dice").html(roll());
+    $("#first-die").attr("src", "images/" + roll() + ".png");
+    $("#second-die").attr("src", "images/" + roll() + ".png");
   });
   
   
