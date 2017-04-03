@@ -1,8 +1,8 @@
-$(document).ready(function(){
+$(document).ready(function() {
   function rolldice(){
-  //Place your code here 
+    return Math.floor(Math.random() * 6 + 1);
+  }
 
+  // Place your code here
 
-  };
-  
 });
