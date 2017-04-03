@@ -1,1 +1,2 @@
 # Dice Simulator
+This project that we done was really fun and i really enjoy it :)What this project does is to roll a pair of dice whem the user clicks a button. This project is function by a file called script.js .I believe we should not add anything to this project. 
