@@ -1,1 +1,1 @@
-# diceGameStarterCode
+# Dice Simulator
